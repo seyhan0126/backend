@@ -1,6 +1,6 @@
 package com.dto;
 
 public class RoleDTO {
-    int id;
+    long id;
     String role;
 }
